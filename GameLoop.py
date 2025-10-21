@@ -10,4 +10,5 @@ pygame.display.set_caption("My First Python Game Program")
 done = True
 while done:
     for event in pygame.event.get():
-        pass
+        if event.type == pygame.QUIT:
+            done == False

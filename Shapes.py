@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-screen = pygame.display.set_mode((300, 300)) #Height and the Width of the window
+screen = pygame.display.set_mode((500, 500)) #Height and the Width of the window
 screen.fill("white")
 
 pygame.display.set_caption("Drawing Shapes on the Surface")

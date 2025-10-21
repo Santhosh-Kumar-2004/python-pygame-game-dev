@@ -7,7 +7,7 @@ screen.fill("white")
 
 pygame.display.set_caption("Drawing Shapes on the Surface")
 
-pygame.draw.line
+pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 
 done = True
 while done:

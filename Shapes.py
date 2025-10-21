@@ -12,7 +12,7 @@ pygame.display.set_caption("Drawing Shapes on the Surface")
 # Creating the shapes using pygame library
 pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
-pygame.draw.rect(screen, "blue", )
+pygame.draw.rect(screen, "blue", (50, 50, 100, 100), 7)
 
 #Loop for the closing of the window
 done = True

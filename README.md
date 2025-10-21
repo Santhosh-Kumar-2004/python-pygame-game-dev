@@ -38,3 +38,19 @@ You’ll not only learn **how to build games**, but also understand the **core p
 ---
 
 ## 📁 Repository Structure (as the course progresses) IDEAL
+python-pygame-game-dev/
+│
+├── 01_basic_setup/
+│ └── main.py
+│
+├── 02_game_loops/
+│ └── main.py
+│
+├── 03_collision_detection/
+│ └── main.py
+│
+├── 04_final_project/
+│ ├── assets/
+│ └── main.py
+│
+└── README.md

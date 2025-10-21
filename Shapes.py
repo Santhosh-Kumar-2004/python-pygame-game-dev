@@ -7,6 +7,8 @@ screen.fill("white")
 
 pygame.display.set_caption("Drawing Shapes on the Surface")
 
+pygame.draw.line
+
 done = True
 while done:
     for event in pygame.event.get():

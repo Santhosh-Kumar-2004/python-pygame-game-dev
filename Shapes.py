@@ -9,7 +9,7 @@ screen.fill("white")
 #The caption for the window
 pygame.display.set_caption("Drawing Shapes on the Surface")
 
-
+# Creating the shapes using pygame library
 pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
 pygame.draw.rect(screen, "blue", )

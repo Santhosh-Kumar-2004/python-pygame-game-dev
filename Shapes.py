@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-#Created
+#Created the screen/canvas to diplasy the things. 
 screen = pygame.display.set_mode((500, 500)) #Height and the Width of the window
 screen.fill("white")
 

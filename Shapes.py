@@ -13,6 +13,7 @@ pygame.display.set_caption("Drawing Shapes on the Surface")
 pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
 pygame.draw.rect(screen, "blue", (50, 50, 100, 100), 7)
+pygame.draw.circle(screen, "green", (200, 150), 50, 2)
 
 #Loop for the closing of the window
 done = True

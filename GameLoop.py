@@ -4,3 +4,5 @@ pygame.init()
 
 screen = pygame.display.set_mode((300, 300)) #Height and the Width of the window
 screen.fill("white")
+
+pygame.display.set_caption("My First Python Game")

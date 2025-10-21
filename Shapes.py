@@ -15,7 +15,7 @@ pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
 pygame.draw.rect(screen, "blue", (50, 50, 100, 100), 7)
 pygame.draw.circle(screen, "green", (200, 150), 50, 2)
 pygame.draw.ellipse(screen, "yellow", (300, 100, 100, 50), 5)
-pygame.draw.polygon(surface=screen, color="violet", ((250, 75), (300, 25), (350, 75)), 2)
+pygame.draw.polygon(screen, "violet", ((250, 75), (300, 25), (350, 75)), 2)
 
 #Loop for the closing of the window
 done = True

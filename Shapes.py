@@ -2,13 +2,17 @@ import pygame
 
 pygame.init()
 
+#Created
 screen = pygame.display.set_mode((500, 500)) #Height and the Width of the window
 screen.fill("white")
 
+#The caption for the window
 pygame.display.set_caption("Drawing Shapes on the Surface")
+
 
 pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
+pygame.draw.rect(screen, "blue", )
 
 done = True
 while done:

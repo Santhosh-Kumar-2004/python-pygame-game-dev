@@ -37,4 +37,4 @@ You’ll not only learn **how to build games**, but also understand the **core p
 
 ---
 
-## 📁 Repository Structure (as the course progresses)
+## 📁 Repository Structure (as the course progresses) IDEAL

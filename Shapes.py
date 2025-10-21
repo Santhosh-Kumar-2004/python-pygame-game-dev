@@ -14,6 +14,7 @@ pygame.draw.line(screen, "black", (0, 0), (300, 300), 5)
 pygame.draw.lines(screen, "red", True, [(100, 100), (200, 100), (100, 200)], 4)
 pygame.draw.rect(screen, "blue", )
 
+#Loop for the closing of the window
 done = True
 while done:
     for event in pygame.event.get():

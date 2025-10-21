@@ -78,10 +78,11 @@ By the end of this course, I aim to:
 
 
 <!-- 
-The topics listed are practical and complete, covering:
-Core Pygame APIs
-Sprite-based animation
-Physics handling
-Screen transitions
-Asset management
-Code organization
+## The topics listed are practical and complete, covering:
+    Core Pygame APIs
+    Sprite-based animation
+    Physics handling
+    Screen transitions
+    Asset management
+    Code organization
+-->

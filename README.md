@@ -54,3 +54,24 @@ python-pygame-game-dev/
 │ └── main.py
 │
 └── README.md
+
+
+---
+
+## 🧩 Learning Goal
+By the end of this course, I aim to:
+- Be comfortable creating complete 2D games using Python & Pygame.
+- Understand how to handle graphics, sounds, animations, and events.
+- Build my own **mini-games portfolio** and publish them online.
+
+---
+
+## 🏁 Author
+**Santhosh Kumar**  
+🎓 Python & Game Development Enthusiast  
+📧 [Your Email Here]  
+🔗 [GitHub Profile](https://github.com/Santhosh-Kumar-2004)
+
+---
+
+> 🧡 *This repository will be updated as I progress through the course.*
